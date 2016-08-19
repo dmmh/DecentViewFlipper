@@ -1,4 +1,4 @@
-package com.example.android.widget.viewflipper;
+package com.example.android.view.viewflipper;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
